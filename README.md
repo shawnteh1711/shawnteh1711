@@ -9,9 +9,6 @@ shawnteh1711/shawnteh1711 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![shawnteh1711 stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawnteh1711)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![shawnteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnteh1711&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnteh1711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
