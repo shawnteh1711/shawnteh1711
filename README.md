@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawnteh1711
 - 👀 I’m interested in finding a job in technology company.
-- 🌱 I’m currently a Cadet in 42KL
+- 🌱 I’m currently a Cadet in [![](https://img.shields.io/badge/KL-white?logo=42&logoColor=black)](https://42kl.edu.my/)
 - 💞️ I’m looking to collaborate on developer to build new technology 
 
 [![](https://visitcount.itsvg.in/api?id=shawnteh1711&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
@@ -8,6 +8,7 @@
 # Socia Media
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-teh-329568126/)
 [![](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fongsiongshawn@gmail.com)
+[![](https://img.shields.io/badge/Site-black?style=for-the-badge&logo=handshake&logoColor=white)](https://shawnteh1711.github.io/shawn/)
 
 # Programming Language
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=ffdd54)
