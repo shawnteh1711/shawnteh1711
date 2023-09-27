@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on developer to build new technology 
 - 📫 How to reach me fongsiongshawn@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=shawnteh1711&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
 <!---
 shawnteh1711/shawnteh1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
